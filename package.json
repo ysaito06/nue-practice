@@ -1,0 +1,17 @@
+{
+  "name": "nue-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./scripts/server.js",
+    "compile": "./scripts/compile.js",
+    "render": "./scripts/render.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "nuejs-core": "^0.3.2"
+  }
+}

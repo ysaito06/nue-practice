@@ -1,0 +1,7 @@
+<div @name="foo-div"　class="{ type }">
+  <img src="{ img }" height="{img_height}" width="{img_width}">
+  <aside>
+    <h3>{ title }</h3>
+    <p>{ desc }</p>
+  </aside>
+</div>
